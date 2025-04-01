@@ -12,6 +12,6 @@ pip3 install auto-gptq
 pip3 install bitsandbytes
 
 pip3 install -r requirements.txt
-pip3 install numpy=1.26.4
+pip3 install numpy==1.26.4
 
 pip3 install transformers
